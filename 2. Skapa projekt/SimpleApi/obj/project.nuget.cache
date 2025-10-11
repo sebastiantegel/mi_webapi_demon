@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipbcYs+5nsE=",
+  "success": true,
+  "projectFilePath": "C:\\Work\\.NetWebApi\\2. Skapa projekt\\Demon\\SimpleApi\\SimpleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
