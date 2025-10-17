@@ -1,0 +1,6 @@
+@ApiWithEfManyToMany_HostAddress = http://localhost:5108
+
+GET {{ApiWithEfManyToMany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

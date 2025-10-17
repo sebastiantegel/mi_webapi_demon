@@ -1,0 +1,6 @@
+@ApiWithEfDTOs_HostAddress = http://localhost:5108
+
+GET {{ApiWithEfDTOs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
